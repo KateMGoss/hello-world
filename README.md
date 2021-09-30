@@ -1,4 +1,5 @@
 # hello-world
 This world shall be run by science and empathy.
 And everyone shall have agency and books and coffee.
-The thrice daily fruit shall be srved fresh.
+Fruit shall be provided thrice daily.
+
